@@ -6,4 +6,4 @@ Here I upload Programs for SiFi's HiFive 01 RISC-V
 based boards on different folders for your reference
 
 
-<a href="https://opencollective./shields#ers" target="_blank">< "https://openc.com/s/r=">
+<a href="https://opencol./shields#ers" target="_blank">< "https://openc.com/s/r=">
