@@ -1,0 +1,10 @@
+-> Thanks to the Linux Foundation for this course on RISC-V
+
+-> https://training.linuxfoundation.org/training/introduction-to-riscv-lfd110x/
+
+-> https://github.com/riscv/riscv-asm-manual/blob/master/riscv-asm.md
+
+-> 
+https://github.com/riscv/riscv-elf-psabi-doc/blob/master/riscv-elf.md
+
+-> https://risc-v-getting-started-guide.readthedocs.io/en/latest/linux-qemu.html
