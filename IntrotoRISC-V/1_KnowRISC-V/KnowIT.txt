@@ -1,0 +1,3 @@
+-> RISC  is short referes to Reduced Instruction Set Computer.
+
+-> The specification for this set of instruction is the 5th generation of RISC processor, Hence RISC-V
