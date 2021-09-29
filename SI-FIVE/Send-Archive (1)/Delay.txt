@@ -1,0 +1,22 @@
+#define RTC_FREQ 32768
+#define CLINT_MTIME 0x200bff8
+
+
+
+
+
+
+void delay(int sec){
+
+uint64_t ticks = sec * RTC_FREQ;
+mtime_wait(ticks);
+}
+void mtime_wait( uint64_t ticks)
+{
+//volatile uint64_t * mtime  = (uint64_t*) (CLINT_CTRL_ADDR +CLINT_MTIME);
+volatile uint64_t * mtime  = (uint64_t*) (CLINT_MTIME);
+uint64_t now = *mtime;
+uint64_t then = now + ticks;
+  while(*mtime<then) {
+  }
+}
