@@ -1,7 +1,9 @@
+/* Copyright 2019 SiFive, Inc */
+/* SPDX-License-Identifier: Apache-2.0 */
 /*
 External LED Blinking
 The external LED is connected to the Digital pin 5
-and Ground
+and Gnd
  */
 #include <stdio.h>
 #include <metal/led.h>
@@ -35,5 +37,3 @@ uint64_t then = now + ticks;
   while(*mtime<then) {
   }
 }
-
-

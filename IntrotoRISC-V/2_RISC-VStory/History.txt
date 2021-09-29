@@ -1,0 +1,7 @@
+-> In 2005, Sun Microsystems opened the SPARC architecture, creating the OpenSPARC project under the GNU Public License (GPL)
+
+-> ARM, which previously showed its architecture only to paying licensees, has now partly opened its architecture to changes by its partners.
+
+-> The Chisel hardware construction language that was used to design many RISC-V processors 
+
+-> The worldwide interest in RISC-V is not because it is a great new chip technology. The interest is because it is a common free and open standard to which software can be ported, and which allows anyone to freely develop their own hardware to run the software
