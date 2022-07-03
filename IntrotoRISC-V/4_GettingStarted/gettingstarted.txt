@@ -1,0 +1,2 @@
+1. The image shows the Privilage rings
+2. To download the software use this link=>https://risc-v-getting-started-guide.readthedocs.io/en/latest/linux-qemu.html
