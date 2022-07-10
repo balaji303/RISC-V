@@ -1,3 +1,6 @@
 Online IDE used
 
 MakerChip
+
+Thanks
+-> https://training.linuxfoundation.org/training/building-a-riscv-cpu-core-lfd111x/

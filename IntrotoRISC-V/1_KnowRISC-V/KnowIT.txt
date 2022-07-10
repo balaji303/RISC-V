@@ -1,3 +1,11 @@
 -> RISC  is short referes to Reduced Instruction Set Computer.
 
 -> The specification for this set of instruction is the 5th generation of RISC processor, Hence RISC-V
+
+-> It is the idea that you could make a smaller, low-power but better performing processor by slimming down the core set of instructions it can execute.
+
+-> The core of RISC-V is a set of just 47 instructions.
+
+-> The actual number of x86 instructions is oddly difficult to enumerate, but it's likely near 1k.
+
+-> Notably missing from the RISC-V instruction set at the time Ditzel and his colleagues started work were the "vector" instructions needed to efficiently do the math of mathine learning such as matrix 	multiplication.

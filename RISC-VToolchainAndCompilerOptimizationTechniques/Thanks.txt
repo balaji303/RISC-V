@@ -1,0 +1,7 @@
+-> Thanks to the Linux Foundation for this course on RISC-V
+
+-> https://training.linuxfoundation.org/training/risc-v-toolchain-and-compiler-optimization-techniques-lfd113x/
+
+
+Software Used:
+
