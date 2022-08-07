@@ -1,3 +1,8 @@
+## HiFive01 Rev B
+
+![Board Overview](https://github.com/balaji303/RISC-V/blob/Building_RISCV_Core/Boards/SI-FIVE/HI-FIVE%20Rev-B/Docs/HiFiveRevB_Overview.png)
+![Pin Out](https://github.com/balaji303/RISC-V/blob/Building_RISCV_Core/Boards/SI-FIVE/HI-FIVE%20Rev-B/Docs/HiFiveRevB_Pinout.png)
+
 ## Useful Links
 
 - [Product](https://www.sifive.com/boards/hifive1-rev-b)
@@ -11,4 +16,5 @@
 - [Datasheet](https://github.com/balaji303/RISC-V/blob/Building_RISCV_Core/Boards/SI-FIVE/HI-FIVE%20Rev-B/Docs/datasheet_fe310-g002-v1p2.pdf)
 - [Manual](https://github.com/balaji303/RISC-V/blob/Building_RISCV_Core/Boards/SI-FIVE/HI-FIVE%20Rev-B/Docs/manual_fe310-g002-v1p4.pdf)
 - [Schematics](https://github.com/balaji303/RISC-V/blob/Building_RISCV_Core/Boards/SI-FIVE/HI-FIVE%20Rev-B/Docs/schematics_hifive1-b01.pdf)
+
 
