@@ -1,8 +1,0 @@
-A compiler is a system that converts a program from one language to another. In the context of this course, we refer to a compiler as a program that converts a high-level language like C, C++ to a low-level language like assembly language or an executable format. Open source compilers like gcc and clang are commonly used to achieve this. These compilers are quite advanced. In a nutshell, they:
-
-Compile several high-level languages: C, C++, Fortran, Objective C, etc.
-Target several architectures: ARM, Aarch64, MIPS, RISC-V, WebAssembly, X86-64, etc.
-Optimize programs to run faster: Loop unrolling, inlining, vectorization, etc.
-Provide linting and other software engineering capabilities: static analysis, warnings, etc.
-Provide APIs to be used by other source code introspection and transformation tools.
-Provide source code instrumentation capabilities for performance analysis, program introspection. 
